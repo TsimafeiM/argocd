@@ -67,7 +67,7 @@ spec:
   project: default
   source:
     # 👇 REMPLACEZ par l'URL de VOTRE fork (comme pour l'Application podinfo).
-    repoURL: https://github.com/<VOTRE-COMPTE>/<VOTRE-REPO>.git
+    repoURL: https://github.com/TsimafeiM/argocd.git
     targetRevision: main
     # Dossier contenant le CR DynaKube dans votre dépôt.
     path: dynatrace
